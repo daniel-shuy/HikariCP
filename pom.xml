@@ -52,7 +52,7 @@
       <pax.exam.version>4.9.2</pax.exam.version>
       <pax.url.version>2.5.2</pax.url.version>
       <slf4j.version>1.7.22</slf4j.version>
-      <log4j.version>2.7</log4j.version>
+      <log4j.version>2.13.3</log4j.version>
       <commons.csv.version>1.4</commons.csv.version>
       <h2.version>1.4.193</h2.version>
       <junit.version>4.12</junit.version>
